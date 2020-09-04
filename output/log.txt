@@ -1,0 +1,1400 @@
+[1/200] Training absolute losses: L1 0.0373766 ; L2 0.0209288 ; Adver 0.0694867 ; Sym 0.0072696 ; Ipl 1.1168760 ; Tv 0.0122393 
+        Training frontal losses: 0.0101237
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[2/200] Training absolute losses: L1 0.0275270 ; L2 0.0126050 ; Adver 0.0688116 ; Sym 0.0105783 ; Ipl 1.0906214 ; Tv 0.0090960 
+        Training frontal losses: 0.0058712
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[3/200] Training absolute losses: L1 0.0231583 ; L2 0.0095773 ; Adver 0.0695259 ; Sym 0.0120168 ; Ipl 1.0819602 ; Tv 0.0078234 
+        Training frontal losses: 0.0050413
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[4/200] Training absolute losses: L1 0.0213375 ; L2 0.0084079 ; Adver 0.0691013 ; Sym 0.0123771 ; Ipl 1.0670075 ; Tv 0.0071882 
+        Training frontal losses: 0.0045633
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[5/200] Training absolute losses: L1 0.0203088 ; L2 0.0077233 ; Adver 0.0695256 ; Sym 0.0129342 ; Ipl 1.0661622 ; Tv 0.0069198 
+        Training frontal losses: 0.0043163
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[6/200] Training absolute losses: L1 0.0193272 ; L2 0.0071360 ; Adver 0.0691018 ; Sym 0.0132018 ; Ipl 1.0506009 ; Tv 0.0066559 
+        Training frontal losses: 0.0042073
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[7/200] Training absolute losses: L1 0.0188235 ; L2 0.0068023 ; Adver 0.0695258 ; Sym 0.0136735 ; Ipl 1.0490471 ; Tv 0.0065414 
+        Training frontal losses: 0.0039646
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[8/200] Training absolute losses: L1 0.0182646 ; L2 0.0065013 ; Adver 0.0691021 ; Sym 0.0138165 ; Ipl 1.0299783 ; Tv 0.0063943 
+        Training frontal losses: 0.0037663
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[9/200] Training absolute losses: L1 0.0180636 ; L2 0.0063596 ; Adver 0.0695260 ; Sym 0.0141994 ; Ipl 1.0245381 ; Tv 0.0063331 
+        Training frontal losses: 0.0036100
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[10/200] Training absolute losses: L1 0.0175504 ; L2 0.0060864 ; Adver 0.0691023 ; Sym 0.0142081 ; Ipl 1.0051793 ; Tv 0.0062001 
+        Training frontal losses: 0.0035617
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[11/200] Training absolute losses: L1 0.0173787 ; L2 0.0059538 ; Adver 0.0695261 ; Sym 0.0144769 ; Ipl 1.0001334 ; Tv 0.0061615 
+        Training frontal losses: 0.0034777
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[12/200] Training absolute losses: L1 0.0168705 ; L2 0.0056938 ; Adver 0.0691023 ; Sym 0.0145002 ; Ipl 0.9834458 ; Tv 0.0060907 
+        Training frontal losses: 0.0033975
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[13/200] Training absolute losses: L1 0.0166070 ; L2 0.0055225 ; Adver 0.0695263 ; Sym 0.0148137 ; Ipl 0.9799338 ; Tv 0.0060934 
+        Training frontal losses: 0.0033431
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[14/200] Training absolute losses: L1 0.0162274 ; L2 0.0053245 ; Adver 0.0691025 ; Sym 0.0149017 ; Ipl 0.9653078 ; Tv 0.0060413 
+        Training frontal losses: 0.0033398
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[15/200] Training absolute losses: L1 0.0160581 ; L2 0.0052004 ; Adver 0.0695264 ; Sym 0.0152463 ; Ipl 0.9616275 ; Tv 0.0060550 
+        Training frontal losses: 0.0033722
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[16/200] Training absolute losses: L1 0.0156628 ; L2 0.0050019 ; Adver 0.0691025 ; Sym 0.0153317 ; Ipl 0.9466358 ; Tv 0.0060121 
+        Training frontal losses: 0.0031762
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[17/200] Training absolute losses: L1 0.0155342 ; L2 0.0049238 ; Adver 0.0695265 ; Sym 0.0156204 ; Ipl 0.9423027 ; Tv 0.0060491 
+        Training frontal losses: 0.0030880
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[18/200] Training absolute losses: L1 0.0151896 ; L2 0.0047533 ; Adver 0.0691026 ; Sym 0.0156142 ; Ipl 0.9274177 ; Tv 0.0060011 
+        Training frontal losses: 0.0029841
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[19/200] Training absolute losses: L1 0.0150382 ; L2 0.0046493 ; Adver 0.0695265 ; Sym 0.0159327 ; Ipl 0.9213115 ; Tv 0.0060455 
+        Training frontal losses: 0.0029484
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[20/200] Training absolute losses: L1 0.0147792 ; L2 0.0045328 ; Adver 0.0691026 ; Sym 0.0159139 ; Ipl 0.9082337 ; Tv 0.0060124 
+        Training frontal losses: 0.0029102
+SSIM Index: 0.0372964
+PSNR Index: 6.1388970
+LPIPS Index: 0.3976641
+MSE Loss Index: 0.0045328
+---------------------------------------------------------------
+[21/200] Training absolute losses: L1 0.0146859 ; L2 0.0044594 ; Adver 0.0695265 ; Sym 0.0162144 ; Ipl 0.9039144 ; Tv 0.0060496 
+        Training frontal losses: 0.0028847
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[22/200] Training absolute losses: L1 0.0143934 ; L2 0.0043315 ; Adver 0.0691026 ; Sym 0.0162006 ; Ipl 0.8898089 ; Tv 0.0060237 
+        Training frontal losses: 0.0028285
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[23/200] Training absolute losses: L1 0.0143209 ; L2 0.0042723 ; Adver 0.0695266 ; Sym 0.0164822 ; Ipl 0.8849851 ; Tv 0.0060702 
+        Training frontal losses: 0.0028120
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[24/200] Training absolute losses: L1 0.0139938 ; L2 0.0041214 ; Adver 0.0691027 ; Sym 0.0165401 ; Ipl 0.8703963 ; Tv 0.0060478 
+        Training frontal losses: 0.0028014
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[25/200] Training absolute losses: L1 0.0139180 ; L2 0.0040723 ; Adver 0.0695266 ; Sym 0.0167953 ; Ipl 0.8644050 ; Tv 0.0060898 
+        Training frontal losses: 0.0028667
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[26/200] Training absolute losses: L1 0.0136038 ; L2 0.0039322 ; Adver 0.0691027 ; Sym 0.0167840 ; Ipl 0.8488696 ; Tv 0.0060709 
+        Training frontal losses: 0.0027807
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[27/200] Training absolute losses: L1 0.0135355 ; L2 0.0038803 ; Adver 0.0695266 ; Sym 0.0171061 ; Ipl 0.8426070 ; Tv 0.0061163 
+        Training frontal losses: 0.0027279
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[28/200] Training absolute losses: L1 0.0132412 ; L2 0.0037512 ; Adver 0.0691027 ; Sym 0.0170742 ; Ipl 0.8261788 ; Tv 0.0060959 
+        Training frontal losses: 0.0026118
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[29/200] Training absolute losses: L1 0.0132657 ; L2 0.0037432 ; Adver 0.0695266 ; Sym 0.0172719 ; Ipl 0.8206357 ; Tv 0.0061365 
+        Training frontal losses: 0.0025691
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[30/200] Training absolute losses: L1 0.0130745 ; L2 0.0036668 ; Adver 0.0691027 ; Sym 0.0172564 ; Ipl 0.8081518 ; Tv 0.0061081 
+        Training frontal losses: 0.0025662
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[31/200] Training absolute losses: L1 0.0130857 ; L2 0.0036461 ; Adver 0.0695266 ; Sym 0.0174660 ; Ipl 0.8034242 ; Tv 0.0061595 
+        Training frontal losses: 0.0025669
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[32/200] Training absolute losses: L1 0.0128798 ; L2 0.0035685 ; Adver 0.0691027 ; Sym 0.0173838 ; Ipl 0.7892288 ; Tv 0.0061391 
+        Training frontal losses: 0.0025552
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[33/200] Training absolute losses: L1 0.0129011 ; L2 0.0035608 ; Adver 0.0695266 ; Sym 0.0176120 ; Ipl 0.7812790 ; Tv 0.0061852 
+        Training frontal losses: 0.0025919
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[34/200] Training absolute losses: L1 0.0127161 ; L2 0.0034862 ; Adver 0.0691027 ; Sym 0.0175509 ; Ipl 0.7720902 ; Tv 0.0061600 
+        Training frontal losses: 0.0025411
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[35/200] Training absolute losses: L1 0.0127187 ; L2 0.0034741 ; Adver 0.0695266 ; Sym 0.0177433 ; Ipl 0.7657752 ; Tv 0.0062116 
+        Training frontal losses: 0.0024882
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[36/200] Training absolute losses: L1 0.0124600 ; L2 0.0033578 ; Adver 0.0691027 ; Sym 0.0176471 ; Ipl 0.7514928 ; Tv 0.0061849 
+        Training frontal losses: 0.0024646
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[37/200] Training absolute losses: L1 0.0123758 ; L2 0.0033030 ; Adver 0.0695267 ; Sym 0.0178740 ; Ipl 0.7437421 ; Tv 0.0062340 
+        Training frontal losses: 0.0025113
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[38/200] Training absolute losses: L1 0.0120886 ; L2 0.0031858 ; Adver 0.0691027 ; Sym 0.0178474 ; Ipl 0.7256767 ; Tv 0.0062225 
+        Training frontal losses: 0.0025080
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[39/200] Training absolute losses: L1 0.0120515 ; L2 0.0031548 ; Adver 0.0687940 ; Sym 0.0181442 ; Ipl 0.7197605 ; Tv 0.0062830 
+        Training frontal losses: 0.0024635
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[40/200] Training absolute losses: L1 0.0118165 ; L2 0.0030680 ; Adver 0.0691002 ; Sym 0.0181212 ; Ipl 0.7055042 ; Tv 0.0062668 
+        Training frontal losses: 0.0024003
+SSIM Index: 0.0459333
+PSNR Index: 6.3079224
+LPIPS Index: 0.3321877
+MSE Loss Index: 0.0030680
+---------------------------------------------------------------
+[41/200] Training absolute losses: L1 0.0118263 ; L2 0.0030564 ; Adver 0.0695255 ; Sym 0.0183740 ; Ipl 0.7003006 ; Tv 0.0063253 
+        Training frontal losses: 0.0023500
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[42/200] Training absolute losses: L1 0.0116315 ; L2 0.0029816 ; Adver 0.0691020 ; Sym 0.0183351 ; Ipl 0.6880035 ; Tv 0.0063190 
+        Training frontal losses: 0.0022879
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[43/200] Training absolute losses: L1 0.0116951 ; L2 0.0029906 ; Adver 0.0695262 ; Sym 0.0185076 ; Ipl 0.6842932 ; Tv 0.0063671 
+        Training frontal losses: 0.0023116
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[44/200] Training absolute losses: L1 0.0115364 ; L2 0.0029289 ; Adver 0.0691025 ; Sym 0.0183704 ; Ipl 0.6731475 ; Tv 0.0063380 
+        Training frontal losses: 0.0023419
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[45/200] Training absolute losses: L1 0.0115271 ; L2 0.0029089 ; Adver 0.0695263 ; Sym 0.0185747 ; Ipl 0.6673454 ; Tv 0.0063859 
+        Training frontal losses: 0.0023335
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[46/200] Training absolute losses: L1 0.0113645 ; L2 0.0028488 ; Adver 0.0691022 ; Sym 0.0184669 ; Ipl 0.6561770 ; Tv 0.0063705 
+        Training frontal losses: 0.0022555
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[47/200] Training absolute losses: L1 0.0114080 ; L2 0.0028505 ; Adver 0.0695264 ; Sym 0.0186639 ; Ipl 0.6535768 ; Tv 0.0064173 
+        Training frontal losses: 0.0022580
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[48/200] Training absolute losses: L1 0.0112853 ; L2 0.0028063 ; Adver 0.0690968 ; Sym 0.0185197 ; Ipl 0.6414157 ; Tv 0.0063985 
+        Training frontal losses: 0.0022666
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[49/200] Training absolute losses: L1 0.0112461 ; L2 0.0027774 ; Adver 0.0695183 ; Sym 0.0187745 ; Ipl 0.6387870 ; Tv 0.0064460 
+        Training frontal losses: 0.0022986
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[50/200] Training absolute losses: L1 0.0109995 ; L2 0.0026790 ; Adver 0.0691019 ; Sym 0.0187059 ; Ipl 0.6198790 ; Tv 0.0064320 
+        Training frontal losses: 0.0022937
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[51/200] Training absolute losses: L1 0.0109727 ; L2 0.0026555 ; Adver 0.0695261 ; Sym 0.0189862 ; Ipl 0.6130341 ; Tv 0.0064928 
+        Training frontal losses: 0.0023050
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[52/200] Training absolute losses: L1 0.0108270 ; L2 0.0026069 ; Adver 0.0691025 ; Sym 0.0188614 ; Ipl 0.6045674 ; Tv 0.0064649 
+        Training frontal losses: 0.0022556
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[53/200] Training absolute losses: L1 0.0108442 ; L2 0.0025969 ; Adver 0.0695263 ; Sym 0.0190664 ; Ipl 0.6033941 ; Tv 0.0065185 
+        Training frontal losses: 0.0022004
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[54/200] Training absolute losses: L1 0.0107283 ; L2 0.0025553 ; Adver 0.0691027 ; Sym 0.0189229 ; Ipl 0.5938460 ; Tv 0.0064888 
+        Training frontal losses: 0.0021358
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[55/200] Training absolute losses: L1 0.0107740 ; L2 0.0025626 ; Adver 0.0695267 ; Sym 0.0191254 ; Ipl 0.5902686 ; Tv 0.0065400 
+        Training frontal losses: 0.0021826
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[56/200] Training absolute losses: L1 0.0106167 ; L2 0.0025094 ; Adver 0.0691027 ; Sym 0.0190164 ; Ipl 0.5805387 ; Tv 0.0065159 
+        Training frontal losses: 0.0022245
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[57/200] Training absolute losses: L1 0.0106787 ; L2 0.0025185 ; Adver 0.0695266 ; Sym 0.0192322 ; Ipl 0.5809497 ; Tv 0.0065650 
+        Training frontal losses: 0.0022957
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[58/200] Training absolute losses: L1 0.0105148 ; L2 0.0024591 ; Adver 0.0691026 ; Sym 0.0190724 ; Ipl 0.5694969 ; Tv 0.0065458 
+        Training frontal losses: 0.0022722
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[59/200] Training absolute losses: L1 0.0105603 ; L2 0.0024648 ; Adver 0.0695265 ; Sym 0.0192735 ; Ipl 0.5659069 ; Tv 0.0065964 
+        Training frontal losses: 0.0022548
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[60/200] Training absolute losses: L1 0.0103805 ; L2 0.0024050 ; Adver 0.0691026 ; Sym 0.0191800 ; Ipl 0.5571677 ; Tv 0.0065644 
+        Training frontal losses: 0.0021587
+SSIM Index: 0.0511532
+PSNR Index: 6.4132967
+LPIPS Index: 0.2904726
+MSE Loss Index: 0.0024050
+---------------------------------------------------------------
+[61/200] Training absolute losses: L1 0.0104145 ; L2 0.0024048 ; Adver 0.0695265 ; Sym 0.0193907 ; Ipl 0.5551613 ; Tv 0.0066065 
+        Training frontal losses: 0.0021027
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[62/200] Training absolute losses: L1 0.0103065 ; L2 0.0023712 ; Adver 0.0691027 ; Sym 0.0192066 ; Ipl 0.5526056 ; Tv 0.0065745 
+        Training frontal losses: 0.0020608
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[63/200] Training absolute losses: L1 0.0103874 ; L2 0.0023878 ; Adver 0.0695266 ; Sym 0.0193935 ; Ipl 0.5556425 ; Tv 0.0066309 
+        Training frontal losses: 0.0020827
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[64/200] Training absolute losses: L1 0.0102565 ; L2 0.0023482 ; Adver 0.0691026 ; Sym 0.0192639 ; Ipl 0.5426756 ; Tv 0.0065972 
+        Training frontal losses: 0.0021085
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[65/200] Training absolute losses: L1 0.0102733 ; L2 0.0023468 ; Adver 0.0695265 ; Sym 0.0194838 ; Ipl 0.5355416 ; Tv 0.0066439 
+        Training frontal losses: 0.0021997
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[66/200] Training absolute losses: L1 0.0100617 ; L2 0.0022720 ; Adver 0.0691026 ; Sym 0.0193860 ; Ipl 0.5201083 ; Tv 0.0066279 
+        Training frontal losses: 0.0021821
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[67/200] Training absolute losses: L1 0.0100416 ; L2 0.0022522 ; Adver 0.0695265 ; Sym 0.0196131 ; Ipl 0.5138309 ; Tv 0.0066776 
+        Training frontal losses: 0.0021541
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[68/200] Training absolute losses: L1 0.0098737 ; L2 0.0021997 ; Adver 0.0691022 ; Sym 0.0195049 ; Ipl 0.5028543 ; Tv 0.0066575 
+        Training frontal losses: 0.0021221
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[69/200] Training absolute losses: L1 0.0098778 ; L2 0.0021934 ; Adver 0.0695266 ; Sym 0.0197275 ; Ipl 0.5003738 ; Tv 0.0067085 
+        Training frontal losses: 0.0021214
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[70/200] Training absolute losses: L1 0.0097645 ; L2 0.0021594 ; Adver 0.0688566 ; Sym 0.0195913 ; Ipl 0.4941901 ; Tv 0.0066788 
+        Training frontal losses: 0.0020690
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[71/200] Training absolute losses: L1 0.0098244 ; L2 0.0021716 ; Adver 0.0695263 ; Sym 0.0198173 ; Ipl 0.4960737 ; Tv 0.0067282 
+        Training frontal losses: 0.0020339
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[72/200] Training absolute losses: L1 0.0097260 ; L2 0.0021450 ; Adver 0.0691025 ; Sym 0.0196263 ; Ipl 0.4932041 ; Tv 0.0066870 
+        Training frontal losses: 0.0020043
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[73/200] Training absolute losses: L1 0.0097776 ; L2 0.0021517 ; Adver 0.0695264 ; Sym 0.0198576 ; Ipl 0.4977783 ; Tv 0.0067330 
+        Training frontal losses: 0.0019980
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[74/200] Training absolute losses: L1 0.0096634 ; L2 0.0021146 ; Adver 0.0691022 ; Sym 0.0197027 ; Ipl 0.4945673 ; Tv 0.0066994 
+        Training frontal losses: 0.0019894
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[75/200] Training absolute losses: L1 0.0097352 ; L2 0.0021304 ; Adver 0.0695266 ; Sym 0.0198565 ; Ipl 0.4925106 ; Tv 0.0067388 
+        Training frontal losses: 0.0020251
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[76/200] Training absolute losses: L1 0.0095867 ; L2 0.0020794 ; Adver 0.0691024 ; Sym 0.0197242 ; Ipl 0.4835628 ; Tv 0.0067199 
+        Training frontal losses: 0.0019788
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[77/200] Training absolute losses: L1 0.0096060 ; L2 0.0020776 ; Adver 0.0695266 ; Sym 0.0199429 ; Ipl 0.4790790 ; Tv 0.0067604 
+        Training frontal losses: 0.0019831
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[78/200] Training absolute losses: L1 0.0094591 ; L2 0.0020308 ; Adver 0.0691026 ; Sym 0.0198072 ; Ipl 0.4709392 ; Tv 0.0067355 
+        Training frontal losses: 0.0019839
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[79/200] Training absolute losses: L1 0.0095026 ; L2 0.0020376 ; Adver 0.0695265 ; Sym 0.0200176 ; Ipl 0.4665697 ; Tv 0.0067889 
+        Training frontal losses: 0.0020219
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[80/200] Training absolute losses: L1 0.0093998 ; L2 0.0020088 ; Adver 0.0691025 ; Sym 0.0198625 ; Ipl 0.4598990 ; Tv 0.0067565 
+        Training frontal losses: 0.0020017
+SSIM Index: 0.0549562
+PSNR Index: 6.4909759
+LPIPS Index: 0.2656145
+MSE Loss Index: 0.0020088
+---------------------------------------------------------------
+[81/200] Training absolute losses: L1 0.0094405 ; L2 0.0020188 ; Adver 0.0695266 ; Sym 0.0200809 ; Ipl 0.4609674 ; Tv 0.0068060 
+        Training frontal losses: 0.0020187
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[82/200] Training absolute losses: L1 0.0093391 ; L2 0.0019896 ; Adver 0.0691026 ; Sym 0.0199409 ; Ipl 0.4564730 ; Tv 0.0067589 
+        Training frontal losses: 0.0020000
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[83/200] Training absolute losses: L1 0.0093853 ; L2 0.0020011 ; Adver 0.0695265 ; Sym 0.0201321 ; Ipl 0.4578415 ; Tv 0.0068044 
+        Training frontal losses: 0.0020207
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[84/200] Training absolute losses: L1 0.0092805 ; L2 0.0019704 ; Adver 0.0691027 ; Sym 0.0199865 ; Ipl 0.4522607 ; Tv 0.0067748 
+        Training frontal losses: 0.0020225
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[85/200] Training absolute losses: L1 0.0093445 ; L2 0.0019819 ; Adver 0.0695266 ; Sym 0.0201312 ; Ipl 0.4565466 ; Tv 0.0068152 
+        Training frontal losses: 0.0020439
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[86/200] Training absolute losses: L1 0.0092350 ; L2 0.0019516 ; Adver 0.0691026 ; Sym 0.0199977 ; Ipl 0.4503115 ; Tv 0.0067840 
+        Training frontal losses: 0.0020011
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[87/200] Training absolute losses: L1 0.0093088 ; L2 0.0019690 ; Adver 0.0695266 ; Sym 0.0201934 ; Ipl 0.4495074 ; Tv 0.0068289 
+        Training frontal losses: 0.0019722
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[88/200] Training absolute losses: L1 0.0092310 ; L2 0.0019445 ; Adver 0.0691026 ; Sym 0.0200044 ; Ipl 0.4449395 ; Tv 0.0067928 
+        Training frontal losses: 0.0019297
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[89/200] Training absolute losses: L1 0.0092317 ; L2 0.0019364 ; Adver 0.0695267 ; Sym 0.0202264 ; Ipl 0.4381314 ; Tv 0.0068463 
+        Training frontal losses: 0.0019377
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[90/200] Training absolute losses: L1 0.0090651 ; L2 0.0018856 ; Adver 0.0691026 ; Sym 0.0201104 ; Ipl 0.4305466 ; Tv 0.0068105 
+        Training frontal losses: 0.0019231
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[91/200] Training absolute losses: L1 0.0090901 ; L2 0.0018856 ; Adver 0.0695266 ; Sym 0.0203137 ; Ipl 0.4289192 ; Tv 0.0068597 
+        Training frontal losses: 0.0019247
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[92/200] Training absolute losses: L1 0.0089983 ; L2 0.0018657 ; Adver 0.0691027 ; Sym 0.0201846 ; Ipl 0.4239518 ; Tv 0.0068287 
+        Training frontal losses: 0.0019144
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[93/200] Training absolute losses: L1 0.0090826 ; L2 0.0018859 ; Adver 0.0695267 ; Sym 0.0203848 ; Ipl 0.4260411 ; Tv 0.0068657 
+        Training frontal losses: 0.0019459
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[94/200] Training absolute losses: L1 0.0089931 ; L2 0.0018615 ; Adver 0.0691027 ; Sym 0.0201938 ; Ipl 0.4261374 ; Tv 0.0068326 
+        Training frontal losses: 0.0019809
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[95/200] Training absolute losses: L1 0.0090454 ; L2 0.0018713 ; Adver 0.0695267 ; Sym 0.0203790 ; Ipl 0.4246873 ; Tv 0.0068756 
+        Training frontal losses: 0.0019657
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[96/200] Training absolute losses: L1 0.0089462 ; L2 0.0018421 ; Adver 0.0691027 ; Sym 0.0201946 ; Ipl 0.4217320 ; Tv 0.0068377 
+        Training frontal losses: 0.0019001
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[97/200] Training absolute losses: L1 0.0089468 ; L2 0.0018320 ; Adver 0.0695266 ; Sym 0.0204251 ; Ipl 0.4176965 ; Tv 0.0068814 
+        Training frontal losses: 0.0018962
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[98/200] Training absolute losses: L1 0.0088205 ; L2 0.0017978 ; Adver 0.0691027 ; Sym 0.0202720 ; Ipl 0.4121005 ; Tv 0.0068578 
+        Training frontal losses: 0.0018706
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[99/200] Training absolute losses: L1 0.0088893 ; L2 0.0018131 ; Adver 0.0695266 ; Sym 0.0204761 ; Ipl 0.4145888 ; Tv 0.0069175 
+        Training frontal losses: 0.0018883
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[100/200] Training absolute losses: L1 0.0087898 ; L2 0.0017914 ; Adver 0.0691027 ; Sym 0.0203268 ; Ipl 0.4124589 ; Tv 0.0068820 
+        Training frontal losses: 0.0019252
+SSIM Index: 0.0573701
+PSNR Index: 6.5406557
+LPIPS Index: 0.2503410
+MSE Loss Index: 0.0017914
+---------------------------------------------------------------
+[101/200] Training absolute losses: L1 0.0088364 ; L2 0.0017988 ; Adver 0.0695267 ; Sym 0.0205410 ; Ipl 0.4118810 ; Tv 0.0069128 
+        Training frontal losses: 0.0019689
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[102/200] Training absolute losses: L1 0.0087056 ; L2 0.0017621 ; Adver 0.0691027 ; Sym 0.0203620 ; Ipl 0.4055696 ; Tv 0.0068792 
+        Training frontal losses: 0.0019150
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[103/200] Training absolute losses: L1 0.0087295 ; L2 0.0017614 ; Adver 0.0695265 ; Sym 0.0206063 ; Ipl 0.4046219 ; Tv 0.0069242 
+        Training frontal losses: 0.0018879
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[104/200] Training absolute losses: L1 0.0086327 ; L2 0.0017361 ; Adver 0.0691027 ; Sym 0.0204471 ; Ipl 0.3983988 ; Tv 0.0068894 
+        Training frontal losses: 0.0018501
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[105/200] Training absolute losses: L1 0.0086859 ; L2 0.0017458 ; Adver 0.0695266 ; Sym 0.0206342 ; Ipl 0.3955574 ; Tv 0.0069326 
+        Training frontal losses: 0.0018760
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[106/200] Training absolute losses: L1 0.0086065 ; L2 0.0017269 ; Adver 0.0691027 ; Sym 0.0204622 ; Ipl 0.3932234 ; Tv 0.0068940 
+        Training frontal losses: 0.0018704
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[107/200] Training absolute losses: L1 0.0086539 ; L2 0.0017369 ; Adver 0.0695267 ; Sym 0.0206620 ; Ipl 0.3924639 ; Tv 0.0069367 
+        Training frontal losses: 0.0018605
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[108/200] Training absolute losses: L1 0.0085795 ; L2 0.0017178 ; Adver 0.0691027 ; Sym 0.0204685 ; Ipl 0.3905816 ; Tv 0.0069038 
+        Training frontal losses: 0.0018414
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[109/200] Training absolute losses: L1 0.0086393 ; L2 0.0017275 ; Adver 0.0695267 ; Sym 0.0206788 ; Ipl 0.3966930 ; Tv 0.0069555 
+        Training frontal losses: 0.0018696
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[110/200] Training absolute losses: L1 0.0085669 ; L2 0.0017116 ; Adver 0.0691027 ; Sym 0.0204794 ; Ipl 0.3963993 ; Tv 0.0069049 
+        Training frontal losses: 0.0018504
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[111/200] Training absolute losses: L1 0.0086297 ; L2 0.0017222 ; Adver 0.0695267 ; Sym 0.0207042 ; Ipl 0.3972717 ; Tv 0.0069472 
+        Training frontal losses: 0.0018394
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[112/200] Training absolute losses: L1 0.0085484 ; L2 0.0017020 ; Adver 0.0691027 ; Sym 0.0205256 ; Ipl 0.3948141 ; Tv 0.0069095 
+        Training frontal losses: 0.0018169
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[113/200] Training absolute losses: L1 0.0085657 ; L2 0.0017019 ; Adver 0.0695267 ; Sym 0.0207341 ; Ipl 0.3940975 ; Tv 0.0069563 
+        Training frontal losses: 0.0018550
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[114/200] Training absolute losses: L1 0.0084687 ; L2 0.0016781 ; Adver 0.0691027 ; Sym 0.0205631 ; Ipl 0.3883404 ; Tv 0.0069251 
+        Training frontal losses: 0.0018495
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[115/200] Training absolute losses: L1 0.0085072 ; L2 0.0016814 ; Adver 0.0695267 ; Sym 0.0207699 ; Ipl 0.3842982 ; Tv 0.0069679 
+        Training frontal losses: 0.0018341
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[116/200] Training absolute losses: L1 0.0084129 ; L2 0.0016569 ; Adver 0.0691027 ; Sym 0.0205951 ; Ipl 0.3778290 ; Tv 0.0069304 
+        Training frontal losses: 0.0018001
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[117/200] Training absolute losses: L1 0.0084618 ; L2 0.0016666 ; Adver 0.0695267 ; Sym 0.0207999 ; Ipl 0.3772942 ; Tv 0.0069740 
+        Training frontal losses: 0.0018538
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[118/200] Training absolute losses: L1 0.0083991 ; L2 0.0016554 ; Adver 0.0691027 ; Sym 0.0206323 ; Ipl 0.3728675 ; Tv 0.0069349 
+        Training frontal losses: 0.0018585
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[119/200] Training absolute losses: L1 0.0084465 ; L2 0.0016610 ; Adver 0.0695267 ; Sym 0.0207930 ; Ipl 0.3800695 ; Tv 0.0069844 
+        Training frontal losses: 0.0018795
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[120/200] Training absolute losses: L1 0.0083514 ; L2 0.0016361 ; Adver 0.0691027 ; Sym 0.0206597 ; Ipl 0.3738604 ; Tv 0.0069484 
+        Training frontal losses: 0.0018267
+SSIM Index: 0.0592744
+PSNR Index: 6.5798649
+LPIPS Index: 0.2384348
+MSE Loss Index: 0.0016361
+---------------------------------------------------------------
+[121/200] Training absolute losses: L1 0.0083771 ; L2 0.0016333 ; Adver 0.0695267 ; Sym 0.0208579 ; Ipl 0.3756703 ; Tv 0.0069871 
+        Training frontal losses: 0.0018082
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[122/200] Training absolute losses: L1 0.0082981 ; L2 0.0016138 ; Adver 0.0633326 ; Sym 0.0206598 ; Ipl 0.3708644 ; Tv 0.0069540 
+        Training frontal losses: 0.0017828
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[123/200] Training absolute losses: L1 0.0083146 ; L2 0.0016111 ; Adver 0.0695244 ; Sym 0.0208772 ; Ipl 0.3724900 ; Tv 0.0069994 
+        Training frontal losses: 0.0017881
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[124/200] Training absolute losses: L1 0.0082671 ; L2 0.0016005 ; Adver 0.0691026 ; Sym 0.0206774 ; Ipl 0.3674943 ; Tv 0.0069635 
+        Training frontal losses: 0.0017827
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[125/200] Training absolute losses: L1 0.0083760 ; L2 0.0016210 ; Adver 0.0695266 ; Sym 0.0208752 ; Ipl 0.3686909 ; Tv 0.0070129 
+        Training frontal losses: 0.0018204
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[126/200] Training absolute losses: L1 0.0082877 ; L2 0.0016020 ; Adver 0.0691027 ; Sym 0.0206858 ; Ipl 0.3632571 ; Tv 0.0069696 
+        Training frontal losses: 0.0018390
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[127/200] Training absolute losses: L1 0.0082570 ; L2 0.0015915 ; Adver 0.0695266 ; Sym 0.0209100 ; Ipl 0.3607447 ; Tv 0.0070093 
+        Training frontal losses: 0.0018600
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[128/200] Training absolute losses: L1 0.0081596 ; L2 0.0015670 ; Adver 0.0691027 ; Sym 0.0207546 ; Ipl 0.3567319 ; Tv 0.0069820 
+        Training frontal losses: 0.0018372
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[129/200] Training absolute losses: L1 0.0081753 ; L2 0.0015642 ; Adver 0.0695264 ; Sym 0.0209925 ; Ipl 0.3515868 ; Tv 0.0070278 
+        Training frontal losses: 0.0018067
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[130/200] Training absolute losses: L1 0.0081159 ; L2 0.0015538 ; Adver 0.0691027 ; Sym 0.0208180 ; Ipl 0.3507838 ; Tv 0.0069841 
+        Training frontal losses: 0.0017830
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[131/200] Training absolute losses: L1 0.0081748 ; L2 0.0015639 ; Adver 0.0695267 ; Sym 0.0210194 ; Ipl 0.3529034 ; Tv 0.0070201 
+        Training frontal losses: 0.0018111
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[132/200] Training absolute losses: L1 0.0081403 ; L2 0.0015595 ; Adver 0.0691027 ; Sym 0.0208099 ; Ipl 0.3493067 ; Tv 0.0069828 
+        Training frontal losses: 0.0017756
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[133/200] Training absolute losses: L1 0.0082511 ; L2 0.0015860 ; Adver 0.0695266 ; Sym 0.0209632 ; Ipl 0.3608312 ; Tv 0.0070218 
+        Training frontal losses: 0.0018202
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[134/200] Training absolute losses: L1 0.0082045 ; L2 0.0015755 ; Adver 0.0691027 ; Sym 0.0207894 ; Ipl 0.3582164 ; Tv 0.0069868 
+        Training frontal losses: 0.0018115
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[135/200] Training absolute losses: L1 0.0082393 ; L2 0.0015763 ; Adver 0.0695266 ; Sym 0.0209688 ; Ipl 0.3542042 ; Tv 0.0070250 
+        Training frontal losses: 0.0018301
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[136/200] Training absolute losses: L1 0.0081116 ; L2 0.0015429 ; Adver 0.0691027 ; Sym 0.0208239 ; Ipl 0.3459593 ; Tv 0.0069907 
+        Training frontal losses: 0.0017611
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[137/200] Training absolute losses: L1 0.0081368 ; L2 0.0015447 ; Adver 0.0695267 ; Sym 0.0210356 ; Ipl 0.3452950 ; Tv 0.0070391 
+        Training frontal losses: 0.0017530
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[138/200] Training absolute losses: L1 0.0080251 ; L2 0.0015186 ; Adver 0.0691027 ; Sym 0.0208480 ; Ipl 0.3383250 ; Tv 0.0070001 
+        Training frontal losses: 0.0017428
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[139/200] Training absolute losses: L1 0.0080630 ; L2 0.0015268 ; Adver 0.0695267 ; Sym 0.0210701 ; Ipl 0.3445326 ; Tv 0.0070471 
+        Training frontal losses: 0.0017486
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[140/200] Training absolute losses: L1 0.0079722 ; L2 0.0015049 ; Adver 0.0691026 ; Sym 0.0208758 ; Ipl 0.3415752 ; Tv 0.0070080 
+        Training frontal losses: 0.0017515
+SSIM Index: 0.0609487
+PSNR Index: 6.6162166
+LPIPS Index: 0.2291131
+MSE Loss Index: 0.0015049
+---------------------------------------------------------------
+[141/200] Training absolute losses: L1 0.0080471 ; L2 0.0015191 ; Adver 0.0695267 ; Sym 0.0210861 ; Ipl 0.3435169 ; Tv 0.0070533 
+        Training frontal losses: 0.0017810
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[142/200] Training absolute losses: L1 0.0079713 ; L2 0.0015020 ; Adver 0.0691026 ; Sym 0.0209008 ; Ipl 0.3385676 ; Tv 0.0070106 
+        Training frontal losses: 0.0017994
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[143/200] Training absolute losses: L1 0.0080425 ; L2 0.0015150 ; Adver 0.0695267 ; Sym 0.0210991 ; Ipl 0.3403350 ; Tv 0.0070594 
+        Training frontal losses: 0.0018425
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[144/200] Training absolute losses: L1 0.0079619 ; L2 0.0014990 ; Adver 0.0691027 ; Sym 0.0209508 ; Ipl 0.3366005 ; Tv 0.0070180 
+        Training frontal losses: 0.0018490
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[145/200] Training absolute losses: L1 0.0079767 ; L2 0.0014988 ; Adver 0.0695267 ; Sym 0.0211297 ; Ipl 0.3362835 ; Tv 0.0070586 
+        Training frontal losses: 0.0018037
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[146/200] Training absolute losses: L1 0.0078931 ; L2 0.0014782 ; Adver 0.0691027 ; Sym 0.0209658 ; Ipl 0.3309943 ; Tv 0.0070192 
+        Training frontal losses: 0.0017218
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[147/200] Training absolute losses: L1 0.0079122 ; L2 0.0014774 ; Adver 0.0695267 ; Sym 0.0211524 ; Ipl 0.3325927 ; Tv 0.0070642 
+        Training frontal losses: 0.0017318
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[148/200] Training absolute losses: L1 0.0078689 ; L2 0.0014703 ; Adver 0.0691027 ; Sym 0.0209736 ; Ipl 0.3270387 ; Tv 0.0070188 
+        Training frontal losses: 0.0017213
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[149/200] Training absolute losses: L1 0.0079110 ; L2 0.0014766 ; Adver 0.0695267 ; Sym 0.0211926 ; Ipl 0.3284535 ; Tv 0.0070709 
+        Training frontal losses: 0.0017705
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[150/200] Training absolute losses: L1 0.0078301 ; L2 0.0014586 ; Adver 0.0691027 ; Sym 0.0210081 ; Ipl 0.3241493 ; Tv 0.0070382 
+        Training frontal losses: 0.0017647
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[151/200] Training absolute losses: L1 0.0078972 ; L2 0.0014717 ; Adver 0.0695267 ; Sym 0.0211843 ; Ipl 0.3293444 ; Tv 0.0070835 
+        Training frontal losses: 0.0017842
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[152/200] Training absolute losses: L1 0.0078281 ; L2 0.0014572 ; Adver 0.0691027 ; Sym 0.0210105 ; Ipl 0.3267366 ; Tv 0.0070416 
+        Training frontal losses: 0.0017661
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[153/200] Training absolute losses: L1 0.0079051 ; L2 0.0014705 ; Adver 0.0695267 ; Sym 0.0212028 ; Ipl 0.3270528 ; Tv 0.0070768 
+        Training frontal losses: 0.0017539
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[154/200] Training absolute losses: L1 0.0078741 ; L2 0.0014636 ; Adver 0.0691027 ; Sym 0.0210042 ; Ipl 0.3280033 ; Tv 0.0070368 
+        Training frontal losses: 0.0017244
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[155/200] Training absolute losses: L1 0.0079566 ; L2 0.0014776 ; Adver 0.0695267 ; Sym 0.0211979 ; Ipl 0.3298174 ; Tv 0.0070816 
+        Training frontal losses: 0.0017540
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[156/200] Training absolute losses: L1 0.0078742 ; L2 0.0014574 ; Adver 0.0691027 ; Sym 0.0210367 ; Ipl 0.3256083 ; Tv 0.0070453 
+        Training frontal losses: 0.0017581
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[157/200] Training absolute losses: L1 0.0078763 ; L2 0.0014553 ; Adver 0.0695267 ; Sym 0.0212573 ; Ipl 0.3266441 ; Tv 0.0070880 
+        Training frontal losses: 0.0017539
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[158/200] Training absolute losses: L1 0.0077565 ; L2 0.0014267 ; Adver 0.0691027 ; Sym 0.0210775 ; Ipl 0.3206349 ; Tv 0.0070454 
+        Training frontal losses: 0.0017227
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[159/200] Training absolute losses: L1 0.0077269 ; L2 0.0014162 ; Adver 0.0695267 ; Sym 0.0212694 ; Ipl 0.3175043 ; Tv 0.0070900 
+        Training frontal losses: 0.0017377
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[160/200] Training absolute losses: L1 0.0076325 ; L2 0.0013961 ; Adver 0.0691027 ; Sym 0.0211165 ; Ipl 0.3138275 ; Tv 0.0070593 
+        Training frontal losses: 0.0017404
+SSIM Index: 0.0624161
+PSNR Index: 6.6488509
+LPIPS Index: 0.2214205
+MSE Loss Index: 0.0013961
+---------------------------------------------------------------
+[161/200] Training absolute losses: L1 0.0076893 ; L2 0.0014054 ; Adver 0.0695267 ; Sym 0.0213311 ; Ipl 0.3152070 ; Tv 0.0071137 
+        Training frontal losses: 0.0017416
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[162/200] Training absolute losses: L1 0.0076625 ; L2 0.0014012 ; Adver 0.0691027 ; Sym 0.0211339 ; Ipl 0.3170615 ; Tv 0.0070797 
+        Training frontal losses: 0.0017179
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[163/200] Training absolute losses: L1 0.0077151 ; L2 0.0014098 ; Adver 0.0695267 ; Sym 0.0213059 ; Ipl 0.3211782 ; Tv 0.0071124 
+        Training frontal losses: 0.0017639
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[164/200] Training absolute losses: L1 0.0076519 ; L2 0.0013986 ; Adver 0.0691027 ; Sym 0.0211478 ; Ipl 0.3188414 ; Tv 0.0070744 
+        Training frontal losses: 0.0017810
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[165/200] Training absolute losses: L1 0.0077212 ; L2 0.0014124 ; Adver 0.0695267 ; Sym 0.0213455 ; Ipl 0.3201695 ; Tv 0.0071129 
+        Training frontal losses: 0.0018066
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[166/200] Training absolute losses: L1 0.0076056 ; L2 0.0013856 ; Adver 0.0691027 ; Sym 0.0211652 ; Ipl 0.3127493 ; Tv 0.0070766 
+        Training frontal losses: 0.0017420
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[167/200] Training absolute losses: L1 0.0076263 ; L2 0.0013863 ; Adver 0.0695267 ; Sym 0.0213795 ; Ipl 0.3110209 ; Tv 0.0071184 
+        Training frontal losses: 0.0017402
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[168/200] Training absolute losses: L1 0.0075892 ; L2 0.0013809 ; Adver 0.0691027 ; Sym 0.0211995 ; Ipl 0.3113515 ; Tv 0.0070807 
+        Training frontal losses: 0.0017016
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[169/200] Training absolute losses: L1 0.0076295 ; L2 0.0013869 ; Adver 0.0695267 ; Sym 0.0213584 ; Ipl 0.3130535 ; Tv 0.0071159 
+        Training frontal losses: 0.0017038
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[170/200] Training absolute losses: L1 0.0075756 ; L2 0.0013773 ; Adver 0.0691027 ; Sym 0.0211906 ; Ipl 0.3098644 ; Tv 0.0070805 
+        Training frontal losses: 0.0016969
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[171/200] Training absolute losses: L1 0.0076271 ; L2 0.0013846 ; Adver 0.0695267 ; Sym 0.0213956 ; Ipl 0.3109606 ; Tv 0.0071231 
+        Training frontal losses: 0.0017234
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[172/200] Training absolute losses: L1 0.0075741 ; L2 0.0013756 ; Adver 0.0691027 ; Sym 0.0211969 ; Ipl 0.3071875 ; Tv 0.0070827 
+        Training frontal losses: 0.0017218
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[173/200] Training absolute losses: L1 0.0076546 ; L2 0.0013877 ; Adver 0.0695267 ; Sym 0.0214060 ; Ipl 0.3120175 ; Tv 0.0071266 
+        Training frontal losses: 0.0017554
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[174/200] Training absolute losses: L1 0.0076770 ; L2 0.0013937 ; Adver 0.0691027 ; Sym 0.0211928 ; Ipl 0.3235814 ; Tv 0.0070925 
+        Training frontal losses: 0.0017230
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[175/200] Training absolute losses: L1 0.0076768 ; L2 0.0013912 ; Adver 0.0695267 ; Sym 0.0213933 ; Ipl 0.3177747 ; Tv 0.0071396 
+        Training frontal losses: 0.0017069
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[176/200] Training absolute losses: L1 0.0075722 ; L2 0.0013696 ; Adver 0.0691027 ; Sym 0.0212458 ; Ipl 0.3090013 ; Tv 0.0070975 
+        Training frontal losses: 0.0016876
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[177/200] Training absolute losses: L1 0.0075484 ; L2 0.0013585 ; Adver 0.0695267 ; Sym 0.0214503 ; Ipl 0.3070903 ; Tv 0.0071421 
+        Training frontal losses: 0.0016819
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[178/200] Training absolute losses: L1 0.0074539 ; L2 0.0013388 ; Adver 0.0691027 ; Sym 0.0212673 ; Ipl 0.3053269 ; Tv 0.0071018 
+        Training frontal losses: 0.0016491
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[179/200] Training absolute losses: L1 0.0074746 ; L2 0.0013404 ; Adver 0.0695267 ; Sym 0.0214704 ; Ipl 0.3044931 ; Tv 0.0071411 
+        Training frontal losses: 0.0016759
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[180/200] Training absolute losses: L1 0.0074338 ; L2 0.0013339 ; Adver 0.0691027 ; Sym 0.0212896 ; Ipl 0.3051798 ; Tv 0.0071047 
+        Training frontal losses: 0.0016865
+SSIM Index: 0.0633193
+PSNR Index: 6.6684892
+LPIPS Index: 0.2158099
+MSE Loss Index: 0.0013339
+---------------------------------------------------------------
+[181/200] Training absolute losses: L1 0.0075000 ; L2 0.0013473 ; Adver 0.0695267 ; Sym 0.0214999 ; Ipl 0.3092928 ; Tv 0.0071410 
+        Training frontal losses: 0.0017320
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[182/200] Training absolute losses: L1 0.0074722 ; L2 0.0013430 ; Adver 0.0691027 ; Sym 0.0212783 ; Ipl 0.3080122 ; Tv 0.0071131 
+        Training frontal losses: 0.0017412
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[183/200] Training absolute losses: L1 0.0075200 ; L2 0.0013519 ; Adver 0.0695267 ; Sym 0.0214940 ; Ipl 0.3092200 ; Tv 0.0071591 
+        Training frontal losses: 0.0017659
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[184/200] Training absolute losses: L1 0.0074179 ; L2 0.0013321 ; Adver 0.0691027 ; Sym 0.0213088 ; Ipl 0.3036717 ; Tv 0.0071039 
+        Training frontal losses: 0.0017319
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[185/200] Training absolute losses: L1 0.0074654 ; L2 0.0013397 ; Adver 0.0695267 ; Sym 0.0215114 ; Ipl 0.3062330 ; Tv 0.0071461 
+        Training frontal losses: 0.0017802
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[186/200] Training absolute losses: L1 0.0073949 ; L2 0.0013218 ; Adver 0.0691027 ; Sym 0.0213345 ; Ipl 0.3018058 ; Tv 0.0071139 
+        Training frontal losses: 0.0017521
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[187/200] Training absolute losses: L1 0.0074551 ; L2 0.0013298 ; Adver 0.0695267 ; Sym 0.0215090 ; Ipl 0.3003845 ; Tv 0.0071564 
+        Training frontal losses: 0.0017179
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[188/200] Training absolute losses: L1 0.0074175 ; L2 0.0013243 ; Adver 0.0691027 ; Sym 0.0213137 ; Ipl 0.2969941 ; Tv 0.0071145 
+        Training frontal losses: 0.0016596
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[189/200] Training absolute losses: L1 0.0074608 ; L2 0.0013298 ; Adver 0.0695267 ; Sym 0.0214995 ; Ipl 0.2981711 ; Tv 0.0071568 
+        Training frontal losses: 0.0016711
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[190/200] Training absolute losses: L1 0.0074326 ; L2 0.0013246 ; Adver 0.0691027 ; Sym 0.0213309 ; Ipl 0.2975913 ; Tv 0.0071139 
+        Training frontal losses: 0.0016354
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[191/200] Training absolute losses: L1 0.0074765 ; L2 0.0013299 ; Adver 0.0695267 ; Sym 0.0215352 ; Ipl 0.3004425 ; Tv 0.0071600 
+        Training frontal losses: 0.0016858
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[192/200] Training absolute losses: L1 0.0073969 ; L2 0.0013187 ; Adver 0.0691027 ; Sym 0.0213258 ; Ipl 0.2972555 ; Tv 0.0071221 
+        Training frontal losses: 0.0017022
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[193/200] Training absolute losses: L1 0.0074243 ; L2 0.0013213 ; Adver 0.0695267 ; Sym 0.0215346 ; Ipl 0.2961964 ; Tv 0.0071634 
+        Training frontal losses: 0.0017315
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[194/200] Training absolute losses: L1 0.0073837 ; L2 0.0013155 ; Adver 0.0691027 ; Sym 0.0213002 ; Ipl 0.2932255 ; Tv 0.0071169 
+        Training frontal losses: 0.0017061
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[195/200] Training absolute losses: L1 0.0074691 ; L2 0.0013295 ; Adver 0.0695267 ; Sym 0.0214934 ; Ipl 0.2957670 ; Tv 0.0071647 
+        Training frontal losses: 0.0016827
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[196/200] Training absolute losses: L1 0.0074506 ; L2 0.0013243 ; Adver 0.0691027 ; Sym 0.0213170 ; Ipl 0.2944672 ; Tv 0.0071271 
+        Training frontal losses: 0.0016663
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[197/200] Training absolute losses: L1 0.0075093 ; L2 0.0013302 ; Adver 0.0695267 ; Sym 0.0215083 ; Ipl 0.2966559 ; Tv 0.0071676 
+        Training frontal losses: 0.0016941
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[198/200] Training absolute losses: L1 0.0074138 ; L2 0.0013077 ; Adver 0.0691027 ; Sym 0.0213402 ; Ipl 0.2903790 ; Tv 0.0071269 
+        Training frontal losses: 0.0016651
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[199/200] Training absolute losses: L1 0.0074394 ; L2 0.0013092 ; Adver 0.0695267 ; Sym 0.0215221 ; Ipl 0.2936722 ; Tv 0.0071793 
+        Training frontal losses: 0.0016670
+SSIM Index: 0.0000000
+PSNR Index: 0.0000000
+LPIPS Index: 0.0000000
+MSE Loss Index: 0.0000000
+---------------------------------------------------------------
+[200/200] Training absolute losses: L1 0.0073640 ; L2 0.0012958 ; Adver 0.0691027 ; Sym 0.0213321 ; Ipl 0.2869567 ; Tv 0.0071425 
+        Training frontal losses: 0.0016634
+SSIM Index: 0.0638146
+PSNR Index: 6.6810418
+LPIPS Index: 0.2106320
+MSE Loss Index: 0.0012958
+---------------------------------------------------------------
